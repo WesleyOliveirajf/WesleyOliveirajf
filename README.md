@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou o Wesley Oliveira
 
-💼 Analista de Sistemas com foco em **Final**  
+💼 Analista de Sistemas Pleno
 💡 Entusiasta em **Inteligência Artificial** e **Automação de Processos**  
 🔐 Apaixonado por **Segurança da Informação**
 
