@@ -2,7 +2,7 @@
 
 💼 Analista de Sistemas com foco em **Back-End**  
 💡 Entusiasta em **Inteligência Artificial** e **Automação de Processos**  
-🔐 Apaixonado por **Segurança da Informação**
+
 
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
