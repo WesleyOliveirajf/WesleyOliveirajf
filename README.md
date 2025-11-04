@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/WesleyOliveirajf.png" width="200px" alt="Foto de Perfil" style="border-radius: 50%;" />
-</div>
+
 
 # 👨‍💻 Wesley Oliveira | Analista de Sistemas
 ## 🎯 Sobre mim
