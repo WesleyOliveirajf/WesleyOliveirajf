@@ -1,7 +1,9 @@
+<div align="center">
+  <img src="https://github.com/WesleyOliveirajf.png" width="200px" alt="Foto de Perfil" style="border-radius: 50%;" />
+</div>
+
 # 👨‍💻 Wesley Oliveira | Analista de Sistemas
-
 ## 🎯 Sobre mim
-
 Olá! Sou **Analista de Sistemas** com foco em **desenvolvimento Back-End**, **Inteligência Artificial** e **Automação de Processos**. Tenho paixão por criar soluções escaláveis e eficientes que resolvem problemas reais, combinando tecnologia de ponta com práticas de desenvolvimento modernas.
 
 Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente e integração de sistemas, sempre buscando entregar valor através de código limpo e bem arquitetado.
@@ -9,12 +11,14 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 ---
 
 ## 🚀 Stack Tecnológica
-
 ### **Linguagens & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **📚 Estudando Java**
 
 ### **Ferramentas & Tecnologias**
 ![n8n](https://img.shields.io/badge/n8n-EC6C00?style=for-the-badge&logo=n8n&logoColor=white)
@@ -30,7 +34,6 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 ---
 
 ## 💼 Projetos em Destaque
-
 ### 🤖 [Oráculo](https://github.com/WesleyOliveirajf/oraculo)
 **Assistente de IA com respostas baseadas em contexto**
 - Sistema inteligente que utiliza processamento de linguagem natural para fornecer respostas contextualizadas
@@ -49,7 +52,7 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 - Implementação de boas práticas de desenvolvimento e design patterns
 - **Tecnologias:** JavaScript/TypeScript, Node.js, React
 
-### 🧠 Prompt AI Hub *(Repositório Privado)*
+### 🧠 Prompt AI Hub (Repositório Privado)
 **Hub centralizado de prompts com automação**
 - Biblioteca organizada de prompts para diferentes casos de uso com IA
 - Sistema de automação para geração e otimização de prompts
@@ -58,7 +61,6 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 ---
 
 ## 🌟 Diferenciais
-
 ✨ **Aprendizado Contínuo**: Sempre explorando novas tecnologias e tendências do mercado, especialmente em IA e automação
 
 🤝 **Trabalho Colaborativo**: Experiência com metodologias ágeis e desenvolvimento em equipe
@@ -72,16 +74,12 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyOliveirajf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveirajf&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=WesleyOliveirajf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveirajf&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
 ## 🔗 Vamos Conectar?
-
 💼 **LinkedIn**: [in/wesleyoliveirajf](https://www.linkedin.com/in/wesleyoliveirajf/)
 
 📧 **Contato Profissional**: Estou aberto a oportunidades de colaboração, projetos desafiadores e networking profissional. Se você busca um desenvolvedor comprometido com qualidade e inovação, vamos conversar!
@@ -90,10 +88,6 @@ Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente
 
 ---
 
-<div align="center">
-  
 **"Transformando ideias em código, código em soluções."**
 
 ⭐ Se você gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!
-
-</div>
