@@ -1,91 +1,105 @@
-
-
 # 👨‍💻 Wesley Oliveira | Analista de Sistemas
-## 🎯 Sobre mim
-Olá! Sou **Analista de Sistemas** com foco em **desenvolvimento Back-End**, **Inteligência Artificial** e **Automação de Processos**. Tenho paixão por criar soluções escaláveis e eficientes que resolvem problemas reais, combinando tecnologia de ponta com práticas de desenvolvimento modernas.
 
-Atualmente, dedico-me a projetos envolvendo Python, SQL, automação inteligente e integração de sistemas, sempre buscando entregar valor através de código limpo e bem arquitetado.
+<div align="center">
+  <a href="https://linkedin.com/in/wesleyoliveirajf" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contato@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/WesleyOliveirajf" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+---
+
+## 🎨 Sobre mim
+
+> **Analista de Sistemas** apaixonado por **Back-End**, **Inteligência Artificial** e **Automação**. Desenvolvo soluções escaláveis e eficientes que resolvem problemas reais.
+
+- 💼 Especializado em **Desenvolvimento Back-End** com Python, Java e SQL
+- 🤖 Explorando **IA e LLMs** para soluções inteligentes  
+- ⚙️ Apaixonado por **Automação de Processos** e **Ciências de Dados**
+- 🌟 Comprometido com código limpo, bem arquitetado e testável
+- 🚀 Sempre buscando aprender e explorar novas tecnologias
 
 ---
 
 ## 🚀 Stack Tecnológica
-### **Linguagens & Frameworks**
+
+### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **📚 Estudando Java**
-
-### **Ferramentas & Tecnologias**
-![n8n](https://img.shields.io/badge/n8n-EC6C00?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Ferramentas & Plataformas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EC6C00?style=for-the-badge&logo=n8n&logoColor=white)
 
-### **Áreas de Especialização**
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
-![Automação](https://img.shields.io/badge/Automação-28a745?style=for-the-badge&logo=robot&logoColor=white)
-![Backend](https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logo=code&logoColor=white)
+### Especialização
+![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=code&logoColor=white)
+![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-00BFFF?style=for-the-badge)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-28a745?style=for-the-badge)
 
 ---
 
-## 💼 Projetos em Destaque
-### 🤖 [Oráculo](https://github.com/WesleyOliveirajf/oraculo)
-**Assistente de IA com respostas baseadas em contexto**
-- Sistema inteligente que utiliza processamento de linguagem natural para fornecer respostas contextualizadas
-- Implementação de técnicas de IA para melhorar a precisão das respostas
-- **Tecnologias:** Python, IA, APIs
+## 🌟 Projetos em Destaque
 
-### 📦 [Gestão de Estoque](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
+### [Gestão de Estoque](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
 **Sistema completo de gerenciamento de inventário**
-- Solução desenvolvida para otimizar processos de controle de estoque em ambiente empresarial
-- Interface intuitiva com funcionalidades de cadastro, consulta e relatórios
+- Controle inteligente de estoque em tempo real
+- Interface intuitiva com cadastro, consulta e relatórios
 - **Tecnologias:** Python, SQL, POO
+- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
 
-### 📰 [Clone TabNews](https://github.com/WesleyOliveirajf/clone-tabnews)
-**Projeto educacional Full-Stack**
-- Clone funcional do TabNews para aprendizado de arquitetura front-end e back-end
-- Implementação de boas práticas de desenvolvimento e design patterns
-- **Tecnologias:** JavaScript/TypeScript, Node.js, React
+### [Oráculo - Assistente de IA](https://github.com/WesleyOliveirajf/oraculo)
+**Assistente inteligente com respostas contextualizadas**
+- Processamento de linguagem natural avançado
+- Integração com LLMs para respostas inteligentes
+- **Tecnologias:** Python, IA, APIs
+- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/oraculo)
 
-### 🧠 Prompt AI Hub (Repositório Privado)
-**Hub centralizado de prompts com automação**
-- Biblioteca organizada de prompts para diferentes casos de uso com IA
-- Sistema de automação para geração e otimização de prompts
-- Integração com múltiplas plataformas de IA
-
----
-
-## 🌟 Diferenciais
-✨ **Aprendizado Contínuo**: Sempre explorando novas tecnologias e tendências do mercado, especialmente em IA e automação
-
-🤝 **Trabalho Colaborativo**: Experiência com metodologias ágeis e desenvolvimento em equipe
-
-🔒 **Segurança da Informação**: Interesse e conhecimento em práticas de desenvolvimento seguro
-
-🎓 **Compartilhamento de Conhecimento**: Ativo na comunidade tech, contribuindo com projetos open source
-
-💡 **Resolução de Problemas**: Foco em entender o problema antes de codificar a solução
+### [Clone TabNews](https://github.com/WesleyOliveirajf/clone-tabnews)
+**Projeto Full-Stack para aprendizado e demonstração de habilidades**
+- Arquitetura front-end e back-end completa
+- API RESTful com autenticação
+- **Tecnologias:** JavaScript, TypeScript, Node.js
+- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/clone-tabnews)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=WesleyOliveirajf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveirajf&layout=compact&langs_count=8&theme=tokyonight)
+## 📊 Estatísticas & Atividade
+
+<div align="center">
+  <a href="https://github.com/WesleyOliveirajf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyOliveirajf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/WesleyOliveirajf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveirajf&layout=compact&langs_count=7&theme=dark" />
+  </a>
+</div>
 
 ---
 
-## 🔗 Vamos Conectar?
-💼 **LinkedIn**: [in/wesleyoliveirajf](https://www.linkedin.com/in/wesleyoliveirajf/)
+## 💬 Vamos Conversar?
 
-📧 **Contato Profissional**: Estou aberto a oportunidades de colaboração, projetos desafiadores e networking profissional. Se você busca um desenvolvedor comprometido com qualidade e inovação, vamos conversar!
+Estou sempre aberto para conversar sobre:
+- **Projetos Back-End** escalabilidade e arquitetura
+- **Inteligência Artificial** e aplicações de LLMs
+- **Automação de Processos** e ciências de dados
+- **Oportunidades** em empresas que valorizam inovação
 
-📫 **Entre em contato**: Disponível para discutir oportunidades, projetos ou simplesmente trocar ideias sobre tecnologia!
+### Entre em Contato:
+- 📎 [LinkedIn](https://linkedin.com/in/wesleyoliveirajf)
+- 📧 [E-mail](mailto:wesleyoliveirajf@example.com)
+- 👨‍📋 Discord: WesleyOliveira#0000
 
 ---
 
-**"Transformando ideias em código, código em soluções."**
+### 🔗 Confira meus Repositórios Completos
 
-⭐ Se você gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!
+[👉 **Visite meu perfil completo**](https://github.com/WesleyOliveirajf)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WesleyOliveirajf&color=blue" alt="perfil-visualizações" />
+</div>
