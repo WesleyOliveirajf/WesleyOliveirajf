@@ -12,9 +12,9 @@
 
 > **Analista de Sistemas** apaixonado por **Back-End**, **Inteligência Artificial** e **Automação**. Desenvolvo soluções escaláveis e eficientes que resolvem problemas reais.
 
-- 💼 Especializado em **Desenvolvimento Back-End** com Python, Java e SQL
+- 💼 Especializando em **Desenvolvimento Back-End** com Python, Java e SQL
 - 🤖 Explorando **IA e LLMs** para soluções inteligentes  
-- ⚙️ Apaixonado por **Automação de Processos** e **Ciências de Dados**
+- ⚙️ Apaixonado por **Automação de Processos** 
 - 🌟 Comprometido com código limpo, bem arquitetado e testável
 - 🚀 Sempre buscando aprender e explorar novas tecnologias
 
