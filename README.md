@@ -1,105 +1,87 @@
-# 👨‍💻 Wesley Oliveira | Analista de Sistemas
+# Wesley Oliveira
 
-<div align="center">
-  <a href="https://linkedin.com/in/wesleyoliveirajf" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:contato@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/WesleyOliveirajf" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+### Analista de Sistemas Pleno | Backend, IA e Automação
 
----
+Profissional de tecnologia com mais de 10 anos de experiência em TI, atuando na conexão entre sistemas, dados e necessidades de negócio. Desenvolvo automações, integrações e aplicações com foco em confiabilidade, rastreabilidade e redução de trabalho manual.
 
-## 🎨 Sobre mim
+📍 Juiz de Fora, MG — aberto a oportunidades remotas e híbridas.
 
-> **Analista de Sistemas** apaixonado por **Back-End**, **Inteligência Artificial** e **Automação**. Desenvolvo soluções escaláveis e eficientes que resolvem problemas reais.
+## Atuação
 
-- 💼 Especializando em **Desenvolvimento Back-End** com Python, Java e SQL
-- 🤖 Explorando **IA e LLMs** para soluções inteligentes  
-- ⚙️ Apaixonado por **Automação de Processos** 
-- 🌟 Comprometido com código limpo, bem arquitetado e testável
-- 🚀 Sempre buscando aprender e explorar novas tecnologias
+- Desenvolvimento backend e integrações com **Python**, **Java** e APIs REST
+- Modelagem, consultas e automações com **SQL** e **PostgreSQL**
+- Automação de processos com **Python**, **n8n** e agentes de IA
+- Aplicações web com **JavaScript**, **TypeScript** e **React**
+- Docker, Linux, Git/GitHub e documentação técnica
 
----
+## Projetos em destaque
 
-## 🚀 Stack Tecnológica
+### [RCA — Reativação Comercial Automatizada](https://github.com/WesleyOliveirajf/RCA)
 
-### Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Plataforma para reativação de clientes com pipeline Kanban, sincronização com ERP e automações n8n.
 
-### Ferramentas & Plataformas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EC6C00?style=for-the-badge&logo=n8n&logoColor=white)
+**Stack:** FastAPI, React, PostgreSQL/Supabase, n8n e Docker  
+**Evidências:** testes de backend e frontend, workflows de CI e documentação de arquitetura.  
+[Ver aplicação](https://rcatorp.vercel.app)
 
-### Especialização
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=code&logoColor=white)
-![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-00BFFF?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-28a745?style=for-the-badge)
+### [LiveSindIA — Gestão Condominial](https://github.com/WesleyOliveirajf/sindico)
 
----
+Sistema para registrar e acompanhar manutenções, reuniões, prestadores, documentos e rotinas de condomínios.
 
-## 🌟 Projetos em Destaque
+**Stack:** Java, Spring Boot, React, PostgreSQL e Docker  
+**Evidências:** testes de controllers, serviços e segurança, documentação técnica e aplicação publicada.  
+[Ver aplicação](https://sindico-seven.vercel.app)
 
-### [Gestão de Estoque](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
-**Sistema completo de gerenciamento de inventário**
-- Controle inteligente de estoque em tempo real
-- Interface intuitiva com cadastro, consulta e relatórios
-- **Tecnologias:** Python, SQL, POO
-- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
+### [Instagram Auto-Reply Bot](https://github.com/WesleyOliveirajf/Instagram2026)
 
-### [Oráculo - Assistente de IA](https://github.com/WesleyOliveirajf/oraculo)
-**Assistente inteligente com respostas contextualizadas**
-- Processamento de linguagem natural avançado
-- Integração com LLMs para respostas inteligentes
-- **Tecnologias:** Python, IA, APIs
-- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/oraculo)
+Bot em Python que identifica comentários ainda não respondidos e gera respostas com apoio de IA.
 
-### [Clone TabNews](https://github.com/WesleyOliveirajf/clone-tabnews)
-**Projeto Full-Stack para aprendizado e demonstração de habilidades**
-- Arquitetura front-end e back-end completa
-- API RESTful com autenticação
-- **Tecnologias:** JavaScript, TypeScript, Node.js
-- [🔍 Ver repositório](https://github.com/WesleyOliveirajf/clone-tabnews)
+**Stack:** Python, Instagram Graph API, OpenAI API e SQLite  
+**Evidências:** código modular, controle de duplicidade, logs e configuração por variáveis de ambiente.
 
----
+### [Gestão de Estoque de EPIs](https://github.com/WesleyOliveirajf/Gestao_de_estoque)
 
-## 📊 Estatísticas & Atividade
+Aplicação desktop criada para organizar inventário, distribuição e rastreabilidade de equipamentos de proteção individual.
 
-<div align="center">
-  <a href="https://github.com/WesleyOliveirajf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyOliveirajf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/WesleyOliveirajf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveirajf&layout=compact&langs_count=7&theme=dark" />
-  </a>
-</div>
+**Stack:** Python, SQLite e Tkinter  
+**Evidências:** aplicação funcional, persistência local, interface gráfica e documentação de uso.
 
----
+### [Trabalhe Conosco](https://github.com/WesleyOliveirajf/Trabalhe_conosco)
 
-## 💬 Vamos Conversar?
+Aplicação web para recebimento e acompanhamento de candidaturas, com formulário, API e painel administrativo.
 
-Estou sempre aberto para conversar sobre:
-- **Projetos Back-End** escalabilidade e arquitetura
-- **Inteligência Artificial** e aplicações de LLMs
-- **Automação de Processos** e ciências de dados
-- **Oportunidades** em empresas que valorizam inovação
+**Stack:** JavaScript, Node.js, CSS e banco de dados  
+[Ver aplicação](https://trabalhe-conosco.vercel.app)
 
-### Entre em Contato:
-- 📎 [LinkedIn](https://linkedin.com/in/wesleyoliveirajf)
-- 📧 [E-mail](mailto:wesleyoliveirajf@example.com)
-- 👨‍📋 Discord: WesleyOliveira#0000
+### [Portfólio profissional](https://github.com/WesleyOliveirajf/PortifolioWesleyOliveira)
+
+Portfólio bilíngue com trajetória profissional, projetos selecionados, formação e tecnologias.
+
+**Stack:** JavaScript, React e Vercel  
+[Ver portfólio](https://portfolio-wesley-oliveira.vercel.app)
+
+## Tecnologias
+
+**Backend:** Python, Java, FastAPI, Spring Boot e APIs REST  
+**Dados:** SQL, PostgreSQL, SQLite, Supabase, Power BI e Power Query  
+**Frontend:** JavaScript, TypeScript, React, HTML e CSS  
+**Automação e IA:** n8n, OpenAI API, agentes de IA e webhooks  
+**Infraestrutura:** Docker, Linux, Git/GitHub, Vercel e VPS
+
+## Como trabalho
+
+- Começo pelo problema e pelo impacto esperado
+- Documento decisões, arquitetura e procedimentos
+- Uso testes e validações para reduzir regressões
+- Utilizo ferramentas de IA como apoio ao desenvolvimento, mantendo revisão e validação técnica
+- Busco soluções simples de operar, observar e evoluir
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/wesleyoliveirajf/)
+- [Portfólio](https://portfolio-wesley-oliveira.vercel.app)
+- [E-mail](mailto:wesleyinfo22@gmail.com)
 
 ---
 
-### 🔗 Confira meus Repositórios Completos
-
-[👉 **Visite meu perfil completo**](https://github.com/WesleyOliveirajf)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WesleyOliveirajf&color=blue" alt="perfil-visualizações" />
-</div>
+Aberto a conversar sobre desenvolvimento backend, automação, integrações, dados e aplicações de inteligência artificial.
