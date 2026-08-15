@@ -2,7 +2,7 @@
 
 ### Analista de Sistemas Pleno | Backend, IA e Automação
 
-Profissional de tecnologia com mais de 10 anos de experiência em TI, atuando na conexão entre sistemas, dados e necessidades de negócio. Desenvolvo automações, integrações e aplicações com foco em confiabilidade, rastreabilidade e redução de trabalho manual.
+Profissional de tecnologia com anos de experiência em TI, atuando na conexão entre sistemas, dados e necessidades de negócio. Desenvolvo automações, integrações e aplicações com foco em confiabilidade, rastreabilidade e redução de trabalho manual.
 
 📍 Juiz de Fora, MG — aberto a oportunidades remotas e híbridas.
 
